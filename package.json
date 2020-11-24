@@ -1,0 +1,25 @@
+{
+  "name": "lets-ride-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pages/index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogervirtuoso/lets-ride-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogervirtuoso/lets-ride-web/issues"
+  },
+  "homepage": "https://github.com/rogervirtuoso/lets-ride-web#readme",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
